@@ -1,2 +1,3 @@
-# Git_Course
-Elzero Web School Git - GitHub Course
+# CSS-HTML-Template-1
+
+Elzero Web School Templates - CSS-HTML-Temlate-1
